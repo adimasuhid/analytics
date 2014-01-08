@@ -1,0 +1,7 @@
+# Logfile created on 2014-01-08 14:52:00 +0800 by logger.rb/36483
+I, [2014-01-08T14:52:00.512823 #5816]  INFO -- : 0:  chunky_png (1.2.9) from /Users/Ace/.rvm/gems/ruby-2.0.0-p247@ntn/specifications/chunky_png-1.2.9.gemspec
+I, [2014-01-08T14:52:13.846625 #5816]  INFO -- : 0:  fssm (0.2.10) from /Users/Ace/.rvm/gems/ruby-2.0.0-p247@ntn/specifications/fssm-0.2.10.gemspec
+I, [2014-01-08T14:52:40.807334 #5816]  INFO -- : 0:  sass (3.2.13) from /Users/Ace/.rvm/gems/ruby-2.0.0-p247@ntn/specifications/sass-3.2.13.gemspec
+I, [2014-01-08T14:53:49.591035 #5816]  INFO -- : 0:  compass (0.12.2) from /Users/Ace/.rvm/gems/ruby-2.0.0-p247@ntn/specifications/compass-0.12.2.gemspec
+I, [2014-01-08T14:55:54.308988 #5816]  INFO -- : 0:  zurb-foundation (4.3.2) from /Users/Ace/.rvm/gems/ruby-2.0.0-p247@ntn/specifications/zurb-foundation-4.3.2.gemspec
+I, [2014-01-08T14:55:54.309544 #5816]  INFO -- : 0:  bundler (1.5.1) from /Users/Ace/.rvm/gems/ruby-2.0.0-p247@ntn/specifications/bundler-1.5.1.gemspec
