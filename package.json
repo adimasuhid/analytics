@@ -21,6 +21,8 @@
     "grunt": "~0.4.1"
   },
   "scripts": {
-    "start": "nodemon server.js -w routes"
+    "start": "nodemon server.js -w routes",
+    "mongo": "mongod --config db/mongo.conf"
+
   }
 }
